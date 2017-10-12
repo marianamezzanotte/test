@@ -1,3 +1,27 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-10-12 06:44:51
+  from "/Applications/XAMPP/xamppfiles/htdocs/trabajoEspecial/tpeweb/templates/footer.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_59def34383ffc1_72417086',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '065f7b90105c31f620e60a4731cc11940342c22a' => 
+    array (
+      0 => '/Applications/XAMPP/xamppfiles/htdocs/trabajoEspecial/tpeweb/templates/footer.tpl',
+      1 => 1507783488,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_59def34383ffc1_72417086 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 
 <!--footer-->
 <footer class="footer1">
@@ -144,3 +168,5 @@
 	</div>
 
 </div>
+<?php }
+}

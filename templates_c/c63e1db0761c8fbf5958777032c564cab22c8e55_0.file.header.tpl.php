@@ -1,3 +1,27 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-10-12 07:23:09
+  from "/Applications/XAMPP/xamppfiles/htdocs/trabajoEspecial/tpeweb/templates/header.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_59defc3d691045_83401898',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'c63e1db0761c8fbf5958777032c564cab22c8e55' => 
+    array (
+      0 => '/Applications/XAMPP/xamppfiles/htdocs/trabajoEspecial/tpeweb/templates/header.tpl',
+      1 => 1507785787,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_59defc3d691045_83401898 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 <header>
     <div class="container-fluid p-4 mb-2 bg-danger">
       <div class="row">
@@ -13,3 +37,5 @@
       </div>
     </div>
 </header>
+<?php }
+}
